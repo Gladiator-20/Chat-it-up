@@ -29,7 +29,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Chat-it-up Regiter Interface:
+<img width="800" alt="Register" src="./src/image/Register.png">
 
+### Chat-it-up Login Interface:
+<img width="800" alt="Login" src="./src/image/Login.png">
+
+### Chat-it-up Chat Interface:
+<img width="800" alt="Chat" src="./src/image/Demochat.png">
 
 ## Built With
 
