@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To use the live application use the link below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Redirect to Chat-it-Up Live ](https://chat-it-up-f6671.web.app/).
 
 ## Available Scripts
 
