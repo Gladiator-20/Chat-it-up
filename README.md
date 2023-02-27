@@ -41,5 +41,5 @@ You may also see any lint errors in the console.
 ## Built With
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime
-- [Scss](https://sass-lang.com/)
-- [fireabse](https://firebase.google.com/)
+- [Scss](https://sass-lang.com/) - Styling
+- [fireabse](https://firebase.google.com/) - Database and Hosting
