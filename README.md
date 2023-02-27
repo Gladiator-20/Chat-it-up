@@ -3,8 +3,7 @@
 [Redirect to Chat-it-Up Live](https://chat-it-up-f6671.web.app/)
 
 ## Description
-
-Chat-it-up is chat application that alows multiple user login, a user can find any other user registered in the application and chat with them as well as share files with each other, it keeps the old chat saved so everytime a user can login and restart the conversation with others from exactly where they left off.
+A chat application that allows multiple user logins, a user can find any other user registered in the application and chat with them as well as share files with each other, it keeps the old chat saved so every time a user can log in and restart the conversation with others from exactly where they left off.
 
 ### Deployed
 
