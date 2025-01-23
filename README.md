@@ -41,4 +41,4 @@ You may also see any lint errors in the console.
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime
 - [Scss](https://sass-lang.com/) - Styling
-- [fireabse](https://firebase.google.com/) - Database and Hosting
+- [firebase](https://firebase.google.com/) - Database and Hosting
